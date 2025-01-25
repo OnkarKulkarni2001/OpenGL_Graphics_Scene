@@ -1,0 +1,23 @@
+﻿  glad.c
+  cAiEnemy.cpp
+  cLightManager.cpp
+  cLightMover.cpp
+  cPhysicsUpdated.cpp
+  cPlayer.cpp
+  cScene.cpp
+  cShaderCompiler.cpp
+  cVAOManager.cpp
+  FlyCam.cpp
+  cLoadModels.cpp
+  Source.cpp
+D:\Graphics1\PhysicsMidterm\GameEngine\Source.cpp(103,28): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics1\PhysicsMidterm\GameEngine\Source.cpp(137,60): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Graphics1\PhysicsMidterm\GameEngine\Source.cpp(145,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\Graphics1\PhysicsMidterm\GameEngine\Source.cpp(225,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+D:\Graphics1\PhysicsMidterm\GameEngine\Source.cpp(126,19): warning C4101: 'collisionPoint': unreferenced local variable
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+D:\Graphics1\PhysicsMidterm\GameEngine\cPhysicsUpdated.cpp(377): warning C4715: 'cPhysicsUpdated::GetAABBCollisionPoint': not all control paths return a value
+  All 824 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GameEngine.vcxproj -> D:\Graphics1\PhysicsMidterm\x64\Release\GameEngine.exe
